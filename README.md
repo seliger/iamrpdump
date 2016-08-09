@@ -33,5 +33,4 @@ python iamrpdump.py -m export -p account_a
 
 python iamrpdump.py -m import -p account_b
 
-python dynamodump.py -m restore -r us-west-1 -s testTable
 ```
